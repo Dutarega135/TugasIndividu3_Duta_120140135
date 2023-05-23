@@ -54,7 +54,7 @@ function HasilScreen({ route, navigation }) {
           <ScrollView>{tampil}</ScrollView>
         </SafeAreaView>
         <Text style={{ textAlign: "center", paddingTop: 20 }}>
-          Copyright Muhammad Ibnu Prayogi | 120140152
+          Copyright Duta Rega Rolindo | 120140135
         </Text>
       </View>
     </View>
@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   box: {
-    backgroundColor: "green",
+    backgroundColor: "orange",
     flex: 1,
     padding: 20,
   },
