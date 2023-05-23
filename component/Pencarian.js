@@ -45,7 +45,7 @@ function HasilScreen({ route, navigation }) {
           size={40}
           style={{ marginLeft: "auto", marginTop: -30, color: "white" }}
         />
-        <Text style={styles.textHeader}>Hiling.id</Text>
+        <Text style={styles.textHeader}>Zerotwo.id</Text>
         <Text style={styles.textHeader2}>Hasil Pencarian Penerbangan</Text>
         <Text style={styles.textHeader2}>({route.params.date})</Text>
       </View>
